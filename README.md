@@ -48,3 +48,10 @@ student-task-tracker/
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/student-task-tracker.git
+
+## Screenshots
+
+![Home Page](./screenshots/dashboard.png)
+
+![Tasks](./screenshots/alltasks.png)
+
