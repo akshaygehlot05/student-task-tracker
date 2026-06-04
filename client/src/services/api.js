@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:8000/api",
+  baseURL: "https://student-task-tracker-hw4o.onrender.com/api",
 });
 
 export default API;
